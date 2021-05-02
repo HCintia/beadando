@@ -6,3 +6,5 @@ Elkészült a mező és az ég, mindkettő .obj fájl és külön-külön kerest
 
 A teret a W-S-A-D billentyűk lenyomásával/egér mozgatásával be lehet járni.
 Animált részek: forog a kutya és az őz.
+A "t" lenyomásával megjelenik a használati utasítás.
+MAKE parancs kiadása után létrejött a beadando.exe fájl.
